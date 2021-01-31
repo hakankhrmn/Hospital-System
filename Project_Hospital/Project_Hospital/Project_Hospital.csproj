@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{53FB3F76-69FF-4387-A41F-29698DB6C64D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Project_Hospital</RootNamespace>
+    <AssemblyName>Project_Hospital</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmAnnouncements.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAnnouncements.Designer.cs">
+      <DependentUpon>FrmAnnouncements.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAppointmentList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAppointmentList.Designer.cs">
+      <DependentUpon>FrmAppointmentList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBranchPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBranchPanel.Designer.cs">
+      <DependentUpon>FrmBranchPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDEditInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDEditInfo.Designer.cs">
+      <DependentUpon>FrmDEditInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDoctorDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDoctorDetail.Designer.cs">
+      <DependentUpon>FrmDoctorDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDoctorLogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDoctorLogIn.Designer.cs">
+      <DependentUpon>FrmDoctorLogIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDoctorPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDoctorPanel.Designer.cs">
+      <DependentUpon>FrmDoctorPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPEditInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPEditInfo.Designer.cs">
+      <DependentUpon>FrmPEditInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMain.Designer.cs">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPatientDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPatientDetail.Designer.cs">
+      <DependentUpon>FrmPatientDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPatientLogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPatientLogIn.Designer.cs">
+      <DependentUpon>FrmPatientLogIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRegister.Designer.cs">
+      <DependentUpon>FrmRegister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSecretaryDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSecretaryDetail.Designer.cs">
+      <DependentUpon>FrmSecretaryDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSLogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSLogIn.Designer.cs">
+      <DependentUpon>FrmSLogIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="sql_Connection.cs" />
+    <EmbeddedResource Include="FrmAnnouncements.resx">
+      <DependentUpon>FrmAnnouncements.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAppointmentList.resx">
+      <DependentUpon>FrmAppointmentList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBranchPanel.resx">
+      <DependentUpon>FrmBranchPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDEditInfo.resx">
+      <DependentUpon>FrmDEditInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDoctorDetail.resx">
+      <DependentUpon>FrmDoctorDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDoctorLogIn.resx">
+      <DependentUpon>FrmDoctorLogIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDoctorPanel.resx">
+      <DependentUpon>FrmDoctorPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPEditInfo.resx">
+      <DependentUpon>FrmPEditInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMain.resx">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPatientDetail.resx">
+      <DependentUpon>FrmPatientDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPatientLogIn.resx">
+      <DependentUpon>FrmPatientLogIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRegister.resx">
+      <DependentUpon>FrmRegister.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSecretaryDetail.resx">
+      <DependentUpon>FrmSecretaryDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSLogIn.resx">
+      <DependentUpon>FrmSLogIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Hospital_Project.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Hospital_Project_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>Hospital_Project.mdf</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 ve x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 </ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

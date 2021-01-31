@@ -1,0 +1,121 @@
+C:\Users\hakan\source\repos\Project_Hospital\Project_Hospital\bin\Debug\Project_Hospital.exe.config
+C:\Users\hakan\source\repos\Project_Hospital\Project_Hospital\bin\Debug\Project_Hospital.exe
+C:\Users\hakan\source\repos\Project_Hospital\Project_Hospital\bin\Debug\Project_Hospital.pdb
+C:\Users\hakan\source\repos\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.csprojAssemblyReference.cache
+C:\Users\hakan\source\repos\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.Properties.Resources.resources
+C:\Users\hakan\source\repos\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.csproj.GenerateResource.cache
+C:\Users\hakan\source\repos\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.csproj.CoreCompileInputs.cache
+C:\Users\hakan\source\repos\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.exe
+C:\Users\hakan\source\repos\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.pdb
+C:\Users\hakan\source\repos\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmAnnouncements.resources
+C:\Users\hakan\source\repos\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmAppointmentList.resources
+C:\Users\hakan\source\repos\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmBranchPanel.resources
+C:\Users\hakan\source\repos\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmDEditInfo.resources
+C:\Users\hakan\source\repos\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmDoctorDetail.resources
+C:\Users\hakan\source\repos\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmDoctorLogIn.resources
+C:\Users\hakan\source\repos\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmDoctorPanel.resources
+C:\Users\hakan\source\repos\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmPEditInfo.resources
+C:\Users\hakan\source\repos\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.Main.resources
+C:\Users\hakan\source\repos\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmPatientDetail.resources
+C:\Users\hakan\source\repos\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmPatientLogIn.resources
+C:\Users\hakan\source\repos\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmRegister.resources
+C:\Users\hakan\source\repos\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmSecretaryDetail.resources
+C:\Users\hakan\source\repos\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmSLogIn.resources
+C:\Users\Özgün\Desktop\Advance Project\Project_Hospital\Project_Hospital\bin\Debug\Project_Hospital.exe.config
+C:\Users\Özgün\Desktop\Advance Project\Project_Hospital\Project_Hospital\bin\Debug\Project_Hospital.exe
+C:\Users\Özgün\Desktop\Advance Project\Project_Hospital\Project_Hospital\bin\Debug\Project_Hospital.pdb
+C:\Users\Özgün\Desktop\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.csprojAssemblyReference.cache
+C:\Users\Özgün\Desktop\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmAnnouncements.resources
+C:\Users\Özgün\Desktop\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmAppointmentList.resources
+C:\Users\Özgün\Desktop\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmBranchPanel.resources
+C:\Users\Özgün\Desktop\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmDEditInfo.resources
+C:\Users\Özgün\Desktop\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmDoctorDetail.resources
+C:\Users\Özgün\Desktop\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmDoctorLogIn.resources
+C:\Users\Özgün\Desktop\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmDoctorPanel.resources
+C:\Users\Özgün\Desktop\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmPEditInfo.resources
+C:\Users\Özgün\Desktop\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.Main.resources
+C:\Users\Özgün\Desktop\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmPatientDetail.resources
+C:\Users\Özgün\Desktop\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmPatientLogIn.resources
+C:\Users\Özgün\Desktop\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmRegister.resources
+C:\Users\Özgün\Desktop\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmSecretaryDetail.resources
+C:\Users\Özgün\Desktop\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmSLogIn.resources
+C:\Users\Özgün\Desktop\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.Properties.Resources.resources
+C:\Users\Özgün\Desktop\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.csproj.GenerateResource.cache
+C:\Users\Özgün\Desktop\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.csproj.CoreCompileInputs.cache
+C:\Users\Özgün\Desktop\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.exe
+C:\Users\Özgün\Desktop\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.pdb
+C:\Users\Yiğit\Desktop\Advance Project\Project_Hospital\Project_Hospital\bin\Debug\Hospital_Project.mdf
+C:\Users\Yiğit\Desktop\Advance Project\Project_Hospital\Project_Hospital\bin\Debug\Hospital_Project_log.ldf
+C:\Users\Yiğit\Desktop\Advance Project\Project_Hospital\Project_Hospital\bin\Debug\Project_Hospital.exe.config
+C:\Users\Yiğit\Desktop\Advance Project\Project_Hospital\Project_Hospital\bin\Debug\Project_Hospital.exe
+C:\Users\Yiğit\Desktop\Advance Project\Project_Hospital\Project_Hospital\bin\Debug\Project_Hospital.pdb
+C:\Users\Yiğit\Desktop\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmAnnouncements.resources
+C:\Users\Yiğit\Desktop\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmAppointmentList.resources
+C:\Users\Yiğit\Desktop\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmBranchPanel.resources
+C:\Users\Yiğit\Desktop\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmDEditInfo.resources
+C:\Users\Yiğit\Desktop\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmDoctorDetail.resources
+C:\Users\Yiğit\Desktop\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmDoctorLogIn.resources
+C:\Users\Yiğit\Desktop\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmDoctorPanel.resources
+C:\Users\Yiğit\Desktop\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmPEditInfo.resources
+C:\Users\Yiğit\Desktop\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.Main.resources
+C:\Users\Yiğit\Desktop\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmPatientDetail.resources
+C:\Users\Yiğit\Desktop\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmPatientLogIn.resources
+C:\Users\Yiğit\Desktop\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmRegister.resources
+C:\Users\Yiğit\Desktop\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmSecretaryDetail.resources
+C:\Users\Yiğit\Desktop\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmSLogIn.resources
+C:\Users\Yiğit\Desktop\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.Properties.Resources.resources
+C:\Users\Yiğit\Desktop\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.csproj.GenerateResource.cache
+C:\Users\Yiğit\Desktop\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.csproj.CoreCompileInputs.cache
+C:\Users\Yiğit\Desktop\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.exe
+C:\Users\Yiğit\Desktop\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.pdb
+C:\Users\Yiğit\Desktop\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.csprojAssemblyReference.cache
+C:\Users\hakan\OneDrive\Masaüstü\Advance Project\Project_Hospital\Project_Hospital\bin\Debug\Hospital_Project.mdf
+C:\Users\hakan\OneDrive\Masaüstü\Advance Project\Project_Hospital\Project_Hospital\bin\Debug\Hospital_Project_log.ldf
+C:\Users\hakan\OneDrive\Masaüstü\Advance Project\Project_Hospital\Project_Hospital\bin\Debug\Project_Hospital.exe.config
+C:\Users\hakan\OneDrive\Masaüstü\Advance Project\Project_Hospital\Project_Hospital\bin\Debug\Project_Hospital.exe
+C:\Users\hakan\OneDrive\Masaüstü\Advance Project\Project_Hospital\Project_Hospital\bin\Debug\Project_Hospital.pdb
+C:\Users\hakan\OneDrive\Masaüstü\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.csprojAssemblyReference.cache
+C:\Users\hakan\OneDrive\Masaüstü\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmAnnouncements.resources
+C:\Users\hakan\OneDrive\Masaüstü\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmAppointmentList.resources
+C:\Users\hakan\OneDrive\Masaüstü\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmBranchPanel.resources
+C:\Users\hakan\OneDrive\Masaüstü\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmDEditInfo.resources
+C:\Users\hakan\OneDrive\Masaüstü\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmDoctorDetail.resources
+C:\Users\hakan\OneDrive\Masaüstü\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmDoctorLogIn.resources
+C:\Users\hakan\OneDrive\Masaüstü\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmDoctorPanel.resources
+C:\Users\hakan\OneDrive\Masaüstü\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmPEditInfo.resources
+C:\Users\hakan\OneDrive\Masaüstü\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.Main.resources
+C:\Users\hakan\OneDrive\Masaüstü\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmPatientDetail.resources
+C:\Users\hakan\OneDrive\Masaüstü\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmPatientLogIn.resources
+C:\Users\hakan\OneDrive\Masaüstü\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmRegister.resources
+C:\Users\hakan\OneDrive\Masaüstü\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmSecretaryDetail.resources
+C:\Users\hakan\OneDrive\Masaüstü\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmSLogIn.resources
+C:\Users\hakan\OneDrive\Masaüstü\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.Properties.Resources.resources
+C:\Users\hakan\OneDrive\Masaüstü\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.csproj.GenerateResource.cache
+C:\Users\hakan\OneDrive\Masaüstü\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.csproj.CoreCompileInputs.cache
+C:\Users\hakan\OneDrive\Masaüstü\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.exe
+C:\Users\hakan\OneDrive\Masaüstü\Advance Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.pdb
+D:\Computer Engineering\Advenced Programming\HW\Project\Advanced Project\Project_Hospital\Project_Hospital\bin\Debug\Hospital_Project.mdf
+D:\Computer Engineering\Advenced Programming\HW\Project\Advanced Project\Project_Hospital\Project_Hospital\bin\Debug\Hospital_Project_log.ldf
+D:\Computer Engineering\Advenced Programming\HW\Project\Advanced Project\Project_Hospital\Project_Hospital\bin\Debug\Project_Hospital.exe.config
+D:\Computer Engineering\Advenced Programming\HW\Project\Advanced Project\Project_Hospital\Project_Hospital\bin\Debug\Project_Hospital.exe
+D:\Computer Engineering\Advenced Programming\HW\Project\Advanced Project\Project_Hospital\Project_Hospital\bin\Debug\Project_Hospital.pdb
+D:\Computer Engineering\Advenced Programming\HW\Project\Advanced Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.csprojAssemblyReference.cache
+D:\Computer Engineering\Advenced Programming\HW\Project\Advanced Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmAnnouncements.resources
+D:\Computer Engineering\Advenced Programming\HW\Project\Advanced Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmAppointmentList.resources
+D:\Computer Engineering\Advenced Programming\HW\Project\Advanced Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmBranchPanel.resources
+D:\Computer Engineering\Advenced Programming\HW\Project\Advanced Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmDEditInfo.resources
+D:\Computer Engineering\Advenced Programming\HW\Project\Advanced Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmDoctorDetail.resources
+D:\Computer Engineering\Advenced Programming\HW\Project\Advanced Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmDoctorLogIn.resources
+D:\Computer Engineering\Advenced Programming\HW\Project\Advanced Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmDoctorPanel.resources
+D:\Computer Engineering\Advenced Programming\HW\Project\Advanced Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmPEditInfo.resources
+D:\Computer Engineering\Advenced Programming\HW\Project\Advanced Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.Main.resources
+D:\Computer Engineering\Advenced Programming\HW\Project\Advanced Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmPatientDetail.resources
+D:\Computer Engineering\Advenced Programming\HW\Project\Advanced Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmPatientLogIn.resources
+D:\Computer Engineering\Advenced Programming\HW\Project\Advanced Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmRegister.resources
+D:\Computer Engineering\Advenced Programming\HW\Project\Advanced Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmSecretaryDetail.resources
+D:\Computer Engineering\Advenced Programming\HW\Project\Advanced Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.FrmSLogIn.resources
+D:\Computer Engineering\Advenced Programming\HW\Project\Advanced Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.Properties.Resources.resources
+D:\Computer Engineering\Advenced Programming\HW\Project\Advanced Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.csproj.GenerateResource.cache
+D:\Computer Engineering\Advenced Programming\HW\Project\Advanced Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.csproj.CoreCompileInputs.cache
+D:\Computer Engineering\Advenced Programming\HW\Project\Advanced Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.exe
+D:\Computer Engineering\Advenced Programming\HW\Project\Advanced Project\Project_Hospital\Project_Hospital\obj\Debug\Project_Hospital.pdb
